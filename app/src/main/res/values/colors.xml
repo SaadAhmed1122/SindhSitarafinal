@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D21CEC</color>
+    <color name="colorPrimaryDark">#F0A1F3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="splashscree">#F1C9D4</color>
+    <color name="gradient_start_color">#F0A1F3</color>
+    <color name="gradient_end_color">#D21CEC</color>
+</resources>
